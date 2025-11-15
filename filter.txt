@@ -1,0 +1,2 @@
+booktoki469.com###id_mbv > div.col-15.col-md-9.col-sm-9:first-child
+booktoki469.com###id_mbv > div.col-15.col-md-3.col-sm-3:last-child > div:last-child
