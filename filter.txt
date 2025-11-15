@@ -1,2 +1,8 @@
 booktoki469.com###id_mbv > div.col-15.col-md-9.col-sm-9:first-child
 booktoki469.com###id_mbv > div.col-15.col-md-3.col-sm-3:last-child > div:last-child
+
+newtoki469.com###id_mbv > div.col-15.col-md-9.col-sm-9:first-child
+newtoki469.com###content_wrapper > div.content:last-child > div.at-content > div.view-wrap.view-mobile.font-14:nth-child(7) > section:nth-child(12) > article > div:nth-child(8)
+newtoki469.com###id_mbv > div.col-15.col-md-3.col-sm-3:last-child > div:last-child
+newtoki469.com##div.col-10.col-md-6.col-sm-6.col-xs-12:first-child
+newtoki469.com##div.col-10.col-md-6.col-sm-6.col-xs-12:last-child
