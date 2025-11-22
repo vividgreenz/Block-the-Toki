@@ -1,5 +1,7 @@
+newtoki469.com##div.board-tail-banner
+newtoki469.com##div.id_bbn.row.row-10
+newtoki469.com##div.col-10.col-md-3.col-sm-4.col-xs-6
+newtoki469.com##content_wrapper > div.content > div > div.view-wrap > section > article > div:nth-child(8)
 newtoki469.com##div.basic-banner.row.row-10
 newtoki469.com##div.col-10.col-md-6.col-sm-6.col-xs-12
-newtoki469.com##content_wrapper > div.content > div > div.view-wrap > section > article > div:nth-child(8)
-newtoki469.com##id_mbv > div.col-15.col-md-3.col-sm-3 > div:nth-child(2)
-newtoki469.com##id_mbv > div.col-15.col-md-9.col-sm-9
+
