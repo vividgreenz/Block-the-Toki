@@ -1,2 +1,2 @@
-newtoki469.com##.board-tail-banner
-newtoki469.com###board-tail-banner
+||tokinbtoki/
+||linkbn.php
