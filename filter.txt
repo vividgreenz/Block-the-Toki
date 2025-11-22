@@ -1,1 +1,2 @@
-newtoki469.com##div.board-tail-banner
+newtoki469.com##.board-tail-banner
+newtoki469.com###board-tail-banner
